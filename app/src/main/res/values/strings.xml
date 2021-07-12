@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="libras">lb.</string>
+    <string name="pes">ft.</string>
+    <string name="polegadas">in.</string>
+    <string name="quilos">kg.</string>
+    <string name="metros">m.</string>
+    <string name="digitePesoKg">Digite peso (em kilos)</string>
+    <string name="digitePesoLb"> Digite peso (em libras)</string>
+    <string name="digiteAlturaM"> Digite altura (em metros)</string>
+    <string name="digiteAlturaPP">Digite altura (em pés e polegadas)</string>
+    <string name="sistemametrico">Sistema Métrico (IMC)</string>
+    <string name="sistemaimperial">Sistema Imperial (BMI)</string>
+    <string name="magreza">Magreza</string>
+    <string name="normal">Normal</string>
+    <string name="sobrepeso">Sobrepeso\nObesidade I</string>
+    <string name="obesidade">Obesidade\nObesidade II</string>
+    <string name="obesidade_grave">Obesidade Grave\nObesidade III</string>
+</resources>
